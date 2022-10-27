@@ -8,7 +8,7 @@ I initially used javascript(p5js) to make generative art, patterns, and visualiz
 
 During that course, I discovered Three JS and briefly read about it, but I never had the opportunity to go more into it and explore it. To create an interactive landing page, I want to learn and explore the various JS libraries, notably THREE.js, for my Project 2 assignment. I've been reading about the numerous JS libraries and how each of them has very unique characteristics but could potentially be combined to make a very dynamic website. 
 
-###DESIGN IDEA 
+### DESIGN IDEA 
 Initially, I was considering building upon my Project 1 by generating a 3D model of the product (an ordinary skincare bottle) and enhancing the interactivity of my existing product detail page with a 3D model using THREE.js. 
 
 However, I wanted to develop an entirely new aesthetic and design for this project in order to provide myself with a challenge and to depart from my regular visual approach. 
@@ -19,12 +19,12 @@ Spline.design is a website that enables you to build 3D models in the same manne
 
 
 
-###PROJECT 2 Design 
+### PROJECT 2 Design 
 For this project, I want to utilize the Particle system in THREE.js, construct a 3D object in Spline, then import it into my code so that it can rotate, zoom, and perhaps be deformed using the mouse. The scene will also have text. 
 
 
 
-###PROTOTYPE 
+### PROTOTYPE 
 As of now, I have a general concept of how my prototype's design would appear, but this may change as I begin coding and learn more about THREE.js and WEBGL. 
 
 To develop my prototype, I made a hand-drawn drawing on an iPad. Drawing my ideas on paper first assists me to get my creative juices flowing and gives me with a clear outline of what I am attempting to create and what I want to accomplish. 
