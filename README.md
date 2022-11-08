@@ -60,3 +60,9 @@ There will be a button that will take you then into that product(the shoe) detai
 
 Below is a sketch of the pages I wish to build.
 
+![MainDesktop](https://user-images.githubusercontent.com/60220627/200640189-899a4be8-d672-42c5-b2a1-fc0119ffd282.PNG)
+![MainPhone](https://user-images.githubusercontent.com/60220627/200640218-ffab70b0-f109-4e86-a504-147cbad0cbe3.PNG)
+![ProdDesktop](https://user-images.githubusercontent.com/60220627/200640222-fd487c93-b7cb-44ba-a9df-47664046aff2.PNG)
+![ProdPhone](https://user-images.githubusercontent.com/60220627/200640231-395cb805-626c-4f0a-8fb9-e72a60116593.PNG)
+
+
