@@ -34,3 +34,29 @@ To develop my prototype, I made a hand-drawn drawing on an iPad. Drawing my idea
 
 
 In conclusion, I look forward to learning this new JS tool and becoming more imaginative in order to construct an interactive website that maintains the user's interest. This project has the potential to be the kind of work I want to be able to undertake as a Front End Developer and is a solid foundation for me to develop upon.
+
+
+
+
+
+
+# Milestone 2
+
+I've been reading the documentation and watching YouTube tutorials to figure out how THREE JS works. It is a large library to learn from, and it might be frightening since there is so much you can do and so many different methods to accomplish it. 
+
+The particle system in Three js is what piqued my interest. I noticed a few tutorials where the object or 3D structure displayed by the particle system could be altered using three js and mouse controls. 
+
+
+I was inspired by a website, snp.agency, I saw online while looking for inpiration. Their landing page features a cool interactive 3d model that sits behind some text and moves when you hover over it with your mouse.
+
+
+### Design & Prototype
+I was thinking of portfolio pieces so that I can add this to my portfolio hence, I want to yet again work on making a cool ecommerce website. Nike is such an amazing brand and their aesthetics are very intriguing to me. They are abstract and always have some sort of interactivity within their websites.
+
+Thus for my design I was thinking of creating a landing page for a Nike shoe. The Nike Shoe would be the 3d model I will be designing in spline(still learning this tool). 
+The shoe on the landing page would be made into a particle system using a three js particle system and it would move as you hover over it or zoom in and out. If possible I may add some light effects to it as well to make it pop more.
+
+There will be a button that will take you then into that product(the shoe) detail page. Here that same 3D model of the show would be in color and solids instead of the particles.
+
+Below is a sketch of the pages I wish to build.
+
